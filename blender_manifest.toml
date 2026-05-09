@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "jk3da_theme"
+version = "1.2.0"
+name = "JK3DA Theme"
+tagline = "Dark warm Blender theme with orange accent"
+maintainer = "Jonas Kircher <kontakt@jk3da.com>"
+type = "theme"
+
+blender_version_min = "5.1.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://jk3da.com"
+

@@ -24,7 +24,12 @@ built and maintained by [Jonas Kircher (JK3DA)](https://jk3da.com).
 
 ## Installation
 
-1. Download `JK3DA.xml` from [`themes/JK3DA/`](themes/JK3DA/)
+### Via Blender Extensions (recommended)
+1. In Blender: **Edit → Preferences → Get Extensions**
+2. Search for **JK3DA Theme** and click **Install**
+
+### Manual install
+1. Download `JK3DA.xml` from this repository
 2. In Blender: **Edit → Preferences → Themes**
 3. Click the folder icon → **Install…**
 4. Select `JK3DA.xml`
